@@ -1,0 +1,65 @@
+#visit {
+    padding-block: 4.8em;
+    background: #f2f2f2;
+}
+
+#visit .blog {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2.5em 1.2em;
+    background: #fff;
+    border-radius: 4px;
+}
+
+#visit .content {
+    color: #666;
+}
+
+#visit strong {
+    font-size: 1.4em;
+    font-weight: bold;
+    display: block;
+    margin-bottom: 0.5em;
+    color: #000;
+}
+
+#visit .blog a {
+    color: #fff;
+    line-height: 48px;
+    padding-inline: 1.5em;
+    background: #ff39a2;
+    border-radius: 4px;
+}
+
+#visit h3 {
+    font-size: 1.4em;
+    margin-top: 2.5em;
+}
+
+#visit ol {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1em;
+}
+
+#visit img {
+    width: 100%;
+    height: 16em;
+}
+
+#visit li {
+    width: 16em;
+}
+
+#visit .title {
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-top: 0.8em;
+}
+
+#visit .interviewee {
+    font-size: 0.81em;
+    margin-top: 0.6em;
+    color: #666;
+}
